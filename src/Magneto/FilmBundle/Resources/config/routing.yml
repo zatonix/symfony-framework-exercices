@@ -1,0 +1,3 @@
+magneto_film_homepage:
+    path:     /{id}
+    defaults: { _controller: MagnetoFilmBundle:Default:index }
